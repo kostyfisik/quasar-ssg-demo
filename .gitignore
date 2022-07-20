@@ -1,3 +1,5 @@
+.vscode
+src-ssr
 .DS_Store
 .thumbs.db
 node_modules
